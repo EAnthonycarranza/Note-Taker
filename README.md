@@ -24,7 +24,7 @@ As a small business owner, I want to be able to write and save notes so that I c
 
 1. Run `npm start` or `node server.js` in the terminal to start the server.
 2. Visit `http://localhost:3001` (or the port you have defined) in the browser to view the application.
-3. To use the application on Heroku, visit [https://newapplication234.herokuapp.com/notes](https://newapplication234.herokuapp.com/notes).
+3. To use the application on Heroku, visit [https://newapplication234.herokuapp.com/](https://newapplication234.herokuapp.com/).
 
 ## APIs used
 
